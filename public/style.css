@@ -1,0 +1,35 @@
+
+body {
+  background: #eceff1;
+  color: rgba(0, 0, 0, 0.87);
+  font-family: Roboto, Helvetica, Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+#message {
+  background: white;
+  max-width: 360px;
+  margin: 100px auto 16px;
+  padding: 32px 24px;
+  border-radius: 3px;
+}
+#hello {
+  color: #ff00b3;
+  font-weight: bold;
+  font-size: 50px;
+  margin: 0 0 8px;
+  text-align: center;
+}
+p#click {
+  color: #ff00b3 !important;
+  font-size: 20px;
+  margin: 0 0 8px !important;
+  text-align: center !important;
+}
+#ja {
+  color: red;
+  font-weight: bold;
+  font-size: 50px;
+  margin: 0 0 8px;
+  text-align: center;
+}
