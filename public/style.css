@@ -1,4 +1,3 @@
-
 body {
   background: #eceff1;
   color: rgba(0, 0, 0, 0.87);
@@ -20,11 +19,11 @@ body {
   margin: 0 0 8px;
   text-align: center;
 }
-p#click {
-  color: #ff00b3 !important;
+#click {
+  color: #ff00b3;
   font-size: 20px;
-  margin: 0 0 8px !important;
-  text-align: center !important;
+  margin: 0 0 8px;
+  text-align: center;
 }
 #ja {
   color: red;
